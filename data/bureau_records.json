@@ -1,0 +1,42 @@
+{
+  "APP-101": {
+    "applicant_id": "APP-101",
+    "cibil_score": 785,
+    "past_defaults": 0,
+    "active_loans": 1,
+    "late_payment_count_last_2yrs": 0,
+    "credit_remarks": "Prime credit standing; impeccable repayment record with nationalized banks."
+  },
+  "APP-102": {
+    "applicant_id": "APP-102",
+    "cibil_score": 590,
+    "past_defaults": 2,
+    "active_loans": 3,
+    "late_payment_count_last_2yrs": 4,
+    "credit_remarks": "Sub-prime profile; 2 write-offs recorded in last 36 months, multiple overdue alerts."
+  },
+  "APP-103": {
+    "applicant_id": "APP-103",
+    "cibil_score": 710,
+    "past_defaults": 0,
+    "active_loans": 0,
+    "late_payment_count_last_2yrs": 0,
+    "credit_remarks": "Clean credit history, low credit card utilization, no delinquencies."
+  },
+  "APP-104": {
+    "applicant_id": "APP-104",
+    "cibil_score": 740,
+    "past_defaults": 0,
+    "active_loans": 2,
+    "late_payment_count_last_2yrs": 0,
+    "credit_remarks": "Near-prime profile, good credit mix, payments consistent."
+  },
+  "APP-105": {
+    "applicant_id": "APP-105",
+    "cibil_score": 640,
+    "past_defaults": 1,
+    "active_loans": 2,
+    "late_payment_count_last_2yrs": 1,
+    "credit_remarks": "Borderline credit profile, 1 overdue settlement in 2024."
+  }
+}
